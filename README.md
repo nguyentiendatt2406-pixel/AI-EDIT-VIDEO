@@ -1,4 +1,7 @@
-# Ph-n-m-m-ki-m-kho
+# AI Edit Video
+
+Kho skill Claude Code để dựng và chỉnh sửa video bằng AI (HTML + GSAP, phụ đề, chuyển cảnh, âm thanh).
+
 ## Claude Code skills
 
 Thư mục `.claude/skills/` được commit vào repo nên mọi phiên Claude Code mở repo này
